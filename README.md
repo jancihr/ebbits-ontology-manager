@@ -1,4 +1,4 @@
-# ebbits ontology manager
+# ebbits Ontology Manager
 
 ebbits ontology manager is a SW component for providing ontology related services to the ebbits platform developed within the ebbits project (http://www.ebbits-project.eu/). 
 
